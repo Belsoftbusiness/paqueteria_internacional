@@ -43,9 +43,6 @@ negocios entre Colombia y Estados Unidos.
 ![Imagen Home](screenshots/Imagen%205.jpg)
 
 
-# Opcion de solicitar recogida de paquetes
-![Imagen Home](screenshots/Imagen%205.jpg)
-
 
 # Contacts
 Contact us to quote the development of your mobile appearance.
