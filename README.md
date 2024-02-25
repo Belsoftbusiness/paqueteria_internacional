@@ -18,9 +18,9 @@ negocios entre Colombia y Estados Unidos.
 
 
 # Factura y valor a pagar
-![Imagen Home](screenshots/Imagen%2006.jpg)
-
 ![Imagen Home](screenshots/Imagen%206.jpg)
+
+![Imagen Home](screenshots/Imagen%2006.jpg)
 
 
 # Crea hoy tu casillero
@@ -52,4 +52,5 @@ Contact us to quote the development of your mobile appearance.
 
 
 Email: [belfegorsof336699@gmail.com](mailto:belfegorsof336699@gmail.com)
+
 
